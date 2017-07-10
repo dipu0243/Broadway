@@ -16,3 +16,15 @@ h1, h2, h3{
   font-size: 18px;
   color: white;
 }
+.process h2{
+  font-size: 32px;
+}
+.process h3{
+  font-size: 23px;
+}
+#desc{
+  font-size: 14px;
+}
+.header h2{
+  font-size: 23px;
+}
